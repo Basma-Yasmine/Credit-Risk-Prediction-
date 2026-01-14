@@ -37,7 +37,7 @@ Model evaluation using accuracy and confusion matrix
 How to Run the Project:
 
 Clone the repository
-git clone [https://github.com/basma/credit-risk-prediction.git]
+git clone [[https://github.com/basma/credit-risk-prediction.git]](https://github.com/Basma-Yasmine/Credit-Risk-Prediction-)
 
 Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
